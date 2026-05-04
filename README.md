@@ -1,4 +1,4 @@
-# Mlssnww}
+# Mlssnw
 # Olá, eu sou a Maria Luiza 👋
 
 **QA Engineer em formação | Análise de Dados | Engenharia de Software**

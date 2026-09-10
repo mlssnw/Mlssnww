@@ -43,7 +43,7 @@ Assistente pessoal experimental com foco em **arquitetura multiagente, memória 
 
 A HOPE explora conceitos como:
 
--Memória de curto e longo prazo
+- Memória de curto e longo prazo
 - Recuperação híbrida e busca vetorial
 - Large Language Models (LLMs)
 - Agentes de Inteligência Artificial

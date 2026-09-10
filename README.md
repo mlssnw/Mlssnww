@@ -119,14 +119,14 @@ Dashboard desenvolvido em **Power BI** para análise de mais de **103 mil regist
 
 ### Recursos desenvolvidos
 
-- 🗺️ Mapa coroplético
-- 📊 Rankings dinâmicos
-- 🎛️ Slicers com cross-filtering
-- 🧹 Tratamento de dados com Power Query
-- 📐 Modelagem dimensional
-- 🧮 Medidas em DAX
-- 👥 Análises demográficas
-- 📍 Análises geográficas
+- Mapa coroplético
+- Rankings dinâmicos
+- Slicers com cross-filtering
+- Tratamento de dados com Power Query
+- Modelagem dimensional
+- Medidas em DAX
+- Análises demográficas
+- Análises geográficas
 
 `Power BI` `Power Query` `DAX` `Data Visualization`
 
